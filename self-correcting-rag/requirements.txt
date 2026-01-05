@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain-huggingface
+langgraph
+langchain-community
+tavily-python
+scikit-learn
+pydantic
+python-dotenv
+sentence-transformers
